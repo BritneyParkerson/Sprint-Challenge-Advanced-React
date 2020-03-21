@@ -42,22 +42,22 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Add TL as collaborator on Github.
-- [ ] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
-- [ ] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
-- [ ] Run `npm install` to download dependencies.
-- [ ] Run the server using `npm start` or `node server.js`.
-- [ ] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
-- [ ] Still inside the `client` folder run `npm start` to run the client application.
-- [ ] Implement the project on this Branch, **committing progress & changes often.**
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Add TL as collaborator on Github.
+- [X] Clone your OWN version of Repo. **(Not Lambda's by mistake!)**
+- [X] Create a new Branch locally: `git checkout -b <firstName-lastName>`.
+- [X] Run `npm install` to download dependencies.
+- [X] Run the server using `npm start` or `node server.js`.
+- [X] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
+- [X] Still inside the `client` folder run `npm start` to run the client application.
+- [X] Implement the project on this Branch, **committing progress & changes often.**
+- [X] Push commits: `git push origin <firstName-lastName>`.
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your Project Manager as a Reviewer on the Pull-request.
-- [ ] PM then will count the HW as done by merging the branch back into master.
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [X] Add your Project Manager as a Reviewer on the Pull-request.
+- [X] PM then will count the HW as done by merging the branch back into master.
 
 ## Minimum Viable Product
 
